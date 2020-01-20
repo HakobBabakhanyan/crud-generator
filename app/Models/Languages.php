@@ -3,7 +3,6 @@
 namespace App\Models;
 
 use App\Traits\Image;
-use App\Traits\ResourceModel;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Support\Facades\Cache;
 
