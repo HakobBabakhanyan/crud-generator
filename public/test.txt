@@ -1,0 +1,1 @@
+({"tiraj":"669943","shar":"","jek_pot":"0","beg_stroka":"","timeleft":33,"kolvo_sovpad":["1","2"]})

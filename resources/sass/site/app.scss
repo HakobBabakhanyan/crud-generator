@@ -1,0 +1,96 @@
+// Fonts
+//@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+//@import '~bootstrap/scss/bootstrap';
+body{
+    background: #F6F6F6;
+}
+
+@import "./swiper/swiper";
+
+@import "~tailwindcss/base";
+
+@import "~tailwindcss/components";
+
+@import "~tailwindcss/utilities";
+
+@import "icon";
+
+*{
+    box-sizing: border-box;
+}
+
+
+
+
+@import "./custom";
+
+$brightness:(
+5:0.5
+);
+@each $key, $value in $brightness {
+    .brightness-#{$key} {
+        filter: brightness($value);
+    }
+}
+
+.p-bottom-right{
+    position: absolute;
+    bottom: -20px;
+    right:10px;
+}
+$gray:#ECECEC;
+
+.training-complex{
+    background: $gray;
+    padding: 45px;
+    border-radius: 0 50% 50% 0;
+    width:60%;
+    .img-parent{
+        position: relative;
+        width:100%;
+        padding-top: 100%;
+        img{
+            object-fit: cover;
+            position:absolute;
+            top:0;
+            left:0;
+            width:100%;
+            height:100%;
+            display:block;
+            border-radius: 50%;
+            filter: brightness(0.5);
+        }
+    }
+}
+.sport-complex{
+    background: $gray;
+    width:38%;
+    padding: 45px;
+    border-radius: 50% 0 0 50%;
+    .img-parent{
+        position:relative;
+        width:100%;
+        padding-top:100%;
+        img{
+            object-fit: cover;
+            position:absolute;
+            top:0;
+            left:0;
+            width:100%;
+            height:100%;
+            border-radius: 50%;
+            filter: brightness(0.5);
+        }
+    }
+}
+
+//@tailwind base;
+//
+//@tailwind components;
+//
+//@tailwind utilities;

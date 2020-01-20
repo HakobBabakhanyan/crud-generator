@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30.017" height="30.017" viewBox="0 0 30.017 30.017">
+  <g id="Group_4067" data-name="Group 4067" transform="translate(-1626.483 -6014)">
+    <g id="_003-linkedin" data-name="003-linkedin" transform="translate(1634.89 6022.405)">
+      <g id="Group_39" data-name="Group 39" transform="translate(0 4.254)">
+        <g id="Group_38" data-name="Group 38">
+          <rect id="Rectangle_58" data-name="Rectangle 58" width="3.044" height="9.359" fill="#59575c"/>
+        </g>
+      </g>
+      <g id="Group_41" data-name="Group 41" transform="translate(4.254 4.254)">
+        <g id="Group_40" data-name="Group 40">
+          <path id="Path_31" data-name="Path 31" d="M167.082,160.11c-.032-.01-.063-.021-.1-.031s-.082-.017-.123-.024a2.725,2.725,0,0,0-.546-.055,4.23,4.23,0,0,0-3.271,1.789V160H160v9.359h3.044v-5.1s2.3-3.2,3.271-.851v5.956h3.043v-6.316A3.035,3.035,0,0,0,167.082,160.11Z" transform="translate(-160 -160)" fill="#59575c"/>
+        </g>
+      </g>
+      <g id="Group_43" data-name="Group 43">
+        <g id="Group_42" data-name="Group 42">
+          <ellipse id="Ellipse_7" data-name="Ellipse 7" cx="1.489" cy="1.489" rx="1.489" ry="1.489" fill="#59575c"/>
+        </g>
+      </g>
+    </g>
+    <g id="Rectangle_393" data-name="Rectangle 393" transform="translate(1626.483 6014)" fill="none" stroke="#979797" stroke-width="1">
+      <rect width="30.017" height="30.017" rx="3" stroke="none"/>
+      <rect x="0.5" y="0.5" width="29.017" height="29.017" rx="2.5" fill="none"/>
+    </g>
+  </g>
+</svg>
